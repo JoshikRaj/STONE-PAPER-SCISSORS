@@ -1,2 +1,2 @@
-# STONE-PAPER-SCISSORS
-Game of stone-paper-scisscors
+# Rock-PAPER-SCISSORS
+Game of Rock-paper-scisscors
